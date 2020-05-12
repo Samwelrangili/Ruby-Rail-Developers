@@ -1,0 +1,24 @@
+.bzyLinkColor, .bzyLinkColor:hover {
+	color:  rgb(17, 173, 40)!important;
+}
+.bzyLinkContainer a, .bzyLinkContainer a:hover {
+	color:  rgb(17, 173, 40)!important;
+}
+.application-form a.bzyLinkColor, .application-form a.bzyLinkColor:hover {
+	color:  rgb(17, 173, 40)!important;
+}
+.description a, .description a:hover {
+	color:  rgb(17, 173, 40)!important;
+}
+.breadcrumbs li a, .breadcrumbs li a:hover {
+	color:  rgb(17, 173, 40)!important;
+}
+.video-response .inner-container .btn-primary, .video-response .inner-container .btn-primary:hover {
+	background-color:  rgb(37, 173, 24)!important;
+}
+.positions .position:hover .bzyButtonColor {
+	background-color:  rgb(37, 173, 24)!important;
+}
+.bzyButtonColor:hover {
+	background-color:  rgb(37, 173, 24)!important;
+}
